@@ -1,0 +1,3 @@
+graph_l.o: graph_l.c graph.h
+graph_m.o: graph_m.c graph.h
+main.o: main.c graph.h
